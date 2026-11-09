@@ -14,3 +14,10 @@ https://github.com/Klerith/fernando-skills
 ```bash
 npx skills@latest add Klerith/fernando-skills
 ```
+
+## Comandos
+
+- `npm run dev` — servidor de desarrollo
+- `npm run build` / `npm start` — build y servidor de producción
+- `npm run lint` — ESLint (flat config en `eslint.config.mjs`)
+- No hay framework de tests configurado.
